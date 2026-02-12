@@ -1,4 +1,3 @@
- HEAD
 streamlit
 numpy
 pandas
@@ -16,4 +15,4 @@ scikit-learn
 joblib
 matplotlib
 seaborn
->>>>>>> c183d60 (Initial commit with project files)
+c183d60 (Initial commit with project files)
